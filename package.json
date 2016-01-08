@@ -1,3 +1,9 @@
 {
-  "registry": "npm"
+  "main": "./readline.js",
+  "registry": "github",
+  "map": {
+    "./readline.js": {
+      "node": "@node/readline"
+    }
+  }
 }
