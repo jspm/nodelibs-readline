@@ -1,7 +1,7 @@
 {
   "main": "./readline.js",
   "name": "jspm-nodelibs-readline",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "map": {
     "./readline.js": {
       "node": "@node/readline"
